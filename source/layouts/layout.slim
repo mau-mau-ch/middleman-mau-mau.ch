@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    meta charset="utf-8"
+
+    - # Use title if it's in the page YAML frontmatter
+    title= current_page.data.title || "Mau-Mau Schweizer Regeln"
+
+    = stylesheet_link_tag "normalize", "style"
+    = javascript_include_tag  "all"
+  
+  body class=page_classes
+    = partial "navigation"
+    #container
+      == yield
