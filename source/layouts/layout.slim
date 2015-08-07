@@ -5,7 +5,8 @@ html
 
     - # Use title if it's in the page YAML frontmatter
     title= current_page.data.title || "Mau-Mau Schweizer Regeln"
-
+    
+    = favicon_tag 'images/favicon.png'
     = stylesheet_link_tag "normalize", "style"
     = javascript_include_tag  "all"
   
