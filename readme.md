@@ -61,6 +61,12 @@ The server will watch for file changes and reload accordingly.
 
 # Deployment
 
+Create pdf
+
+```SHELL
+bundle exec rake create_pdf
+```
+
 To deploy the current state you have to commit your changes, then run the
 following rake task:
 
