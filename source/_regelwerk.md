@@ -92,7 +92,9 @@ Der ein bzw. Ausstieg ist jederzeit zum Beginn bzw. Ende einer Runde bedingungsl
 # § 12 Hinzufügen von Regeln
 Ein Spieler darf nach einer bestimmten Anzahl von Siegen neue Regeln hinzufügen. Diese Anzahl ist von der Größe der Spielgruppe (aktive Spieler) abhängig. Wie viele Ge winnpunkte für eine Regelergänzung notwendig sind, ist in der Tabelle Spieler/Gewinn punkte-Verhältnis festgelegt.
 
-grafik
+|Spieler|2|3|4|5|6|7|8|
+|-|
+|Gewinpunkte|10|10|10|6|6|6|4|
 
 Ein Spieler darf während eines Spiels mehr als eine Regel hinzufügen, bei Mau-Mau (Schweizer Regeln) bis 100, wird der Gewinner bei 2-3 Spielern neun ergänzende Regeln festgelegt haben dürfen. Alle hinzugefügten Regeln werden auf der Punktetafel notiert und sind dann gültig, wenn die entsprechende Punktetafel sich im aktiven Einsatz befindet. Welche Punkte tafel aktiv ist, wird im Paragraf § 14 Punktetafel beschrieben.
 
