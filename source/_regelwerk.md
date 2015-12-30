@@ -29,7 +29,7 @@ Ist ein Spieler an der Reihe, so muss er die oberste Karte des offenen Kartensta
 ## Ziel des Spiels
 Punkte, das Ziel des Spieles sind Punkte. Um einen Punkt zu bekommen, muss eine Runde siegreich beendet werden. Mehr dazu in § 8 Schluss einer Runde. Diese Punkte wiederum können Privilegien verleihen. Je nach Punktemodel ist das Spiel nach einer festgelegten Anzahl an Siegen beendet, meist sind dies 100.
 
-# § 1 Ordentliche Zug
+# § 1 Ordentlicher Zug
 Ein Spieler erhält das Spielrecht sofort nach Abschluss eines ordentlichen Zuges des ihm vorangegangen Spielers. Solange der Spieler sich im Besitz des Spielrechts befindet darf er legale Karten von seiner Hand auf den Spielstapel legen. Mit der Ablage der letz ten legalen Karte endet der ordentliche Zug und das Spielrecht geht auf den folgenden Spieler über. Muss ein Spieler aussetzen, so erhält er kein Spielrecht und befindet sich dementsprechend in keinem ordentlichen Zug. Hat ein Spieler die Möglichkeit weitere Karten zu legen (Basiskarte oder gezogene Karte), kann oder will dies aber nicht, so gilt es den nächste Spieler darüber zu informieren. Erfolgt kein Signal so muss der nächste Spieler zumindest eine angemessene Zeit warten, bevor er seinen Spielzug beginnt.
 
 # § 2 Spielpflicht / Karte ziehen
