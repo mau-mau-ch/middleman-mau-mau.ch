@@ -5,12 +5,45 @@ html
 
     - # Use title if it's in the page YAML frontmatter
     title= current_page.data.title || "Mau-Mau Schweizer Regeln"
-    
+
     = favicon_tag 'images/favicon.png'
     = stylesheet_link_tag "normalize", "style"
+    = stylesheet_link_tag 'https://fonts.googleapis.com/css?family=Lato:400,900,700,300', 'style'
     = javascript_include_tag  "all"
-  
+
   body class=page_classes
-    = partial "navigation"
-    #container
-      == yield
+
+      .header
+        .home-menu.pure-menu.pure-menu-horizontal.pure-menu-fixed
+          a.pure-menu-heading href=""  = image_tag 'mau-mau-logo-rot.svg', width: '130'
+            
+        //    ul.pure-menu-list
+        //        li.pure-menu-item.pure-menu-selected
+        //          a.pure-menu-link href="#"  Home
+        //        li.pure-menu-item
+        //          a.pure-menu-link href="#"  Tour
+        //        li.pure-menu-item
+        //          a.pure-menu-link href="#"  Sign Up
+                 
+      .splash-container
+        .splash
+          = image_tag 'mau-mau-logo.svg', width: '250'
+          h1.splash-head
+            | Offizielles Regelwerk 
+            | von „Mau-Mau“ für die in 
+            | der Schweiz typische Spielart
+            | auf einhundert.
+          p
+            a.pure-button.pure-button-primary href="http://purecss.io"  Aktuelle Regeln als .pdf herunterladen
+      .content-wrapper
+        .content
+          h2.content-head.is-center Regeln
+          .pure-g
+            .pure-u-2-24.pure-u-md-1-5
+            .pure-u-20-24.pure-u-md-3-5
+                = partial 'regelwerk.md'
+            .pure-u-2-24.pure-u-md-1-5
+
+        
+        .footer.l-box.is-center
+          | View the source of this layout to learn more. Made with love by the YUI Team.

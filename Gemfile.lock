@@ -1,4 +1,11 @@
 GIT
+  remote: git://github.com/yterajima/middleman-pure.git
+  revision: e7d498537afddc02a16adf89247ee57baa8c69fa
+  specs:
+    middleman-pure (0.6.0)
+      middleman (>= 3.3)
+
+GIT
   remote: git@github.com:josephholsten/middleman-gh-pages.git
   revision: ba53204cc06398b045c215271cd5abe5d3e1aff1
   branch: support-master-branch
@@ -140,6 +147,7 @@ DEPENDENCIES
   middleman (~> 3.3.12)
   middleman-gh-pages!
   middleman-livereload (~> 3.1.0)
+  middleman-pure!
   redcarpet (~> 3.3.2)
   slim (~> 3.0.6)
   tzinfo-data
