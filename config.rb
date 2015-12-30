@@ -48,6 +48,9 @@ end
 #   end
 # end
 
+Time.zone = "Berlin"
+activate :i18n
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'

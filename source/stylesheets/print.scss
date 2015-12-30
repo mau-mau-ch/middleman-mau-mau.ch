@@ -1,0 +1,21 @@
+@page {
+  margin: 1cm 1.5cm 2cm;
+  padding: 2cm 1cm;
+  background-image: url(../images/mau-mau-print.svg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  font-size: 11px;
+  @bottom-left {
+    content: "Homepage: https://mau-mau.ch";
+  }
+  @bottom-center {
+    content: "Seite " counter(page) " von " counter(pages)
+  }
+}
+.stand {
+  position: fixed;
+  bottom: -3.25cm;
+  right: -1cm;
+  font-size: 11px;
+}
+h1 { -weasy-bookmark-level: none }

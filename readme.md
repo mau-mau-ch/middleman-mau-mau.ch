@@ -23,6 +23,16 @@ ruby -v # > ruby-2.2.2
 
 ## Install dependencies
 
+### WeasyPrint for pdf generation
+
+```SHELL
+brew install python cairo pango gdk-pixbuf libxml2 libxslt libffi
+xcode-select --install
+pip install weasyprint
+```
+
+### Ruby gems
+
 ```SHELL
 gem install bundler
 bundle install
