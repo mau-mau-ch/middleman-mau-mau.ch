@@ -5,6 +5,7 @@ gem "slim", "~>3.0.6"
 gem "redcarpet", "~>3.3.2"
 gem "middleman-gh-pages", git: "git@github.com:josephholsten/middleman-gh-pages.git", branch: "support-master-branch"
 gem "middleman-pure", github: "yterajima/middleman-pure"
+gem "middleman-meta-tags"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"

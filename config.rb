@@ -38,6 +38,7 @@
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload
+  activate :meta_tags
 end
 
 # Methods defined in the helpers block are available in templates
@@ -67,6 +68,7 @@ configure :build do
 
   # Use relative URLs
   activate :relative_assets
+  activate :meta_tags
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"

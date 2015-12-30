@@ -5,7 +5,7 @@ html
 
     - # Use title if it's in the page YAML frontmatter
     title= current_page.data.title || "Mau-Mau Schweizer Regeln"
-
+    = set_meta_tags viewport: 'user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width'
     = favicon_tag 'images/favicon.png'
     = stylesheet_link_tag "normalize", "style"
     = stylesheet_link_tag 'https://fonts.googleapis.com/css?family=Lato:400,900,700,300', 'style'
@@ -37,7 +37,6 @@ html
             a.pure-button.pure-button-primary href="http://purecss.io"  Aktuelle Regeln als .pdf herunterladen
       .content-wrapper
         .content
-          h2.content-head.is-center Regeln
           .pure-g
             .pure-u-2-24.pure-u-md-1-5
             .pure-u-20-24.pure-u-md-3-5
