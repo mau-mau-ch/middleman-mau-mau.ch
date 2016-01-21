@@ -31,6 +31,10 @@ xcode-select --install
 pip install weasyprint
 ```
 
+### pandoc an InDesign for beautiful PDF-Generation
+pandoc -s -f markdown -t icml -o regelwerk.icml _regelwerk.md
+After convertion to regelwerk.icml, you can relink the file in Regelwerk Gesamt.indd
+
 ### Ruby gems
 
 ```SHELL
