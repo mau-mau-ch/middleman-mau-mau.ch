@@ -83,7 +83,7 @@ Beim anspielen der Karten darf der Geber lediglich einen Angabefehler machen, da
 # § 10 Schluss einer Runde
 Der Schluss oder das Ende einer Runde ist dann erreicht, sobald ein Spieler seine letzte Karte korrekt ablegt. Der Spieler darf das Ablegen nicht mit einem Ausruf oder ofensichtlicher Freude beenden, jedoch ist ihm gestattet die Mitspieler darauf hinzuweisen, dass er seine letzte Karte gespielt und damit die Runde beendet hat.
 
-# § 10. a Mau
+## § 10. a Mau
 Der Spieler muss unmittelbar dann Mau sagen, sobald er lediglich eine aktive Karte auf der Hand hat. Dies kann mit dem Ablegen der vorletzten Karte geschehen, muss aber unbedingt vor dem Ende des ordentlichen Zuges des Spielers angemerkt werden. Falls nur noch eine Strafkarte vor dem Spieler liegt, muss nach dem regulären Zug Mau gesagt werden, also sobald die Strafkarte zur aktiven Karte wird.
 
 ## § 10. b Mau-Mau
