@@ -1,4 +1,4 @@
-Mau-Mau (Schweizer Regeln) ist ein Kartenspiel für zwei bis acht Spieler, bei dem es darum geht, seine Karten möglichst schnell abzulegen.
+Mau-Mau (Schweizer Regeln) ist ein Kartenspiel für zwei bis acht Spieler, bei dem es darum geht, seine Karten möglichst schnell abzulegen. Es ist die nun bekanntere und verbreitetere Spielversion von Tschau Sepp und ist aufgrund der regional sehr unterschiedlichen Spielversionen mit hinsicht auf Tunierspiele entstanden.
 
 
 ## Die schnelle Karten-Übersicht
@@ -56,7 +56,7 @@ Jeder Mitspieler kann anzweifeln, sprich er teilt der Spielgruppe mit, er hätte
 Wichtig ist an dieser Stelle noch den Unterschied zwischen Fragen & Anzweifeln hervorzuheben: Fragen zu stellen ist jederzeit erlaubt, sie müssen aber nicht zwingend beantwortet werden (Fragen zu den Regeln hingegen sind immer korrekt zu beantworten). Der Unterschied zum Anzweifeln liegt darin, wenn die Frage gleichzeitig eine mögliche Strafkarte impliziert und zur Folge hätte. Dann gilt die Frage nicht mehr als Frage sondern als Anzweifeln.
 
 # § 7 Plenum
-Bei unklarer Auslegung der Regeln kann das Plenum angerufen werden. Es besteht aus allen sich im Spiel befindlichen Spielern inklusive des Angeklagten und des Klägers. Dem Plenum wird der Sachverhalt noch einmal von beiden Parteien dargestellt. Der Kläger verkündet seine Anklage sowie das geforderte Strafmaß, welches eine Strafkarte pro Regeverstoß nicht übersteigen darf. Darauf folgend hat der Angeklagte das Recht sich zu verteidigen, das Hinzuziehen eines Verteidigers ist nicht vorgesehen. 
+Bei unklarer Auslegung der Regeln kann das Plenum angerufen werden. Es besteht aus allen sich im Spiel befindlichen Spielern inklusive des Angeklagten und des Klägers. Dem Plenum wird der Sachverhalt noch einmal von beiden Parteien dargestellt. Der Kläger verkündet seine Anklage sowie das geforderte Strafmaß, welches eine Strafkarte pro Regeverstoß nicht übersteigen darf. Darauf folgend hat der Angeklagte das Recht sich zu verteidigen, das Hinzuziehen eines Verteidigers ist nicht vorgesehen.
 Danach wird per Handzeichen eine Entscheidung gefällt. Enthaltungen sind nicht möglich und Abstimmungsrunden werden nicht wiederholt.
 Fällt das Plenum eine Entscheidung gegen den Angeklagten so wird der Forderung der Anklage folge geleistet, fällt es eine Entscheidung für den Angeklagten so wird die Forderung fallengelassen. Mit diesem Ausgang hat der Kläger den Angeklagten zu Unrecht angezweifelt und somit einen Regelverstoß nach § 5 Anzweifeln begangen. Bei Gleichstand der Stimmen im Plenum wird nach dem Grundsatz “In dubio pro reo” gehandelt und die Strafkarte ebenfalls dem Ankläger zugeschoben.
 
