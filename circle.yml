@@ -1,0 +1,9 @@
+test:
+  override:
+    - echo "Looks good.. Let's deploy!"
+deployment:
+  production:
+    branch: master
+    commands:
+      - git reset --hard
+      - bundle exec rake publish REMOTE_NAME=gh-pages BRANCH_NAME=master
