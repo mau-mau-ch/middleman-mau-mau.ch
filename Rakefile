@@ -1,5 +1,3 @@
-require 'middleman-gh-pages'
-
 desc "create pdf file"
 task :create_pdf => [:build] do
   print 'Creating pdf...'

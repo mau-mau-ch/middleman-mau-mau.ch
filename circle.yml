@@ -5,5 +5,8 @@ deployment:
   production:
     branch: master
     commands:
-      - git reset --hard
-      - bundle exec rake publish REMOTE_NAME=gh-pages BRANCH_NAME=master
+      - cd build
+      - git init
+      - git remote add origin git@github.com:mau-mau-ch/mau-mau-ch.github.io.git
+      - git commit --allow-empty -am "Site update `date -u "+%Y.%m.%d-%H:%M:%S"`"
+      - git push -f
