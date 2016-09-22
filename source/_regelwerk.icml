@@ -82,7 +82,7 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Mau-Mau (Schweizer Regeln) ist ein Kartenspiel für zwei bis acht Spieler, bei dem es darum geht, seine Karten möglichst schnell abzulegen.</Content>
+    <Content>Mau-Mau (Schweizer Regeln) ist ein Kartenspiel für zwei bis acht Spieler, bei dem es darum geht, seine Karten möglichst schnell abzulegen. Es ist die nun bekanntere und verbreitetere Spielversion von Tschau Sepp und ist aufgrund der regional sehr unterschiedlichen Spielversionen mit Hinsicht auf Turnierspiele entstanden.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -410,7 +410,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>§ 10. a Mau</Content>
   </CharacterStyleRange>

@@ -1,4 +1,4 @@
-Mau-Mau (Schweizer Regeln) ist ein Kartenspiel für zwei bis acht Spieler, bei dem es darum geht, seine Karten möglichst schnell abzulegen. Es ist die nun bekanntere und verbreitetere Spielversion von Tschau Sepp und ist aufgrund der regional sehr unterschiedlichen Spielversionen mit hinsicht auf Tunierspiele entstanden.
+Mau-Mau (Schweizer Regeln) ist ein Kartenspiel für zwei bis acht Spieler, bei dem es darum geht, seine Karten möglichst schnell abzulegen. Es ist die nun bekanntere und verbreitetere Spielversion von Tschau Sepp und ist aufgrund der regional sehr unterschiedlichen Spielversionen mit Hinsicht auf Turnierspiele entstanden.
 
 
 ## Die schnelle Karten-Übersicht
