@@ -30,7 +30,9 @@ Ist ein Spieler an der Reihe, so muss er die oberste Karte des offenen Kartensta
 Punkte, das Ziel des Spieles sind Punkte. Um einen Punkt zu bekommen, muss eine Runde siegreich beendet werden. Mehr dazu in § 8 Schluss einer Runde. Diese Punkte wiederum können Privilegien verleihen. Je nach Punktemodel ist das Spiel nach einer festgelegten Anzahl an Siegen beendet, meist sind dies 100.
 
 # § 1 Ordentlicher Zug
-Ein Spieler erhält das Spielrecht sofort nach Abschluss eines ordentlichen Zuges des ihm vorangegangen Spielers. Solange der Spieler sich im Besitz des Spielrechts befindet darf er legale Karten von seiner Hand auf den Spielstapel legen. Mit der Ablage der letzten legalen Karte endet der ordentliche Zug und das Spielrecht geht auf den folgenden Spieler über. Hat eine legale Karte den Spielstapel berührt, darf sie unter keinen Umständen wieder zurückgezogen werden. Muss ein Spieler aussetzen, so erhält er kein Spielrecht und befindet sich dementsprechend in keinem ordentlichen Zug. Hat ein Spieler die Möglichkeit weitere Karten zu legen (Basiskarte oder gezogene Karte), kann oder will dies aber nicht, so gilt es den nächste Spieler darüber zu informieren. Erfolgt kein Signal so muss der nächste Spieler zumindest eine angemessene Zeit warten, bevor er seinen Spielzug beginnt.
+Ein Spieler erhält das Spielrecht sofort nach Abschluss eines ordentlichen Zuges des ihm vorangegangen Spielers. Solange der Spieler sich im Besitz des Spielrechts befindet darf er legale Karten von seiner Hand auf den Spielstapel legen. Mit der Ablage der letzten legalen Karte endet der ordentliche Zug und das Spielrecht geht auf den folgenden Spieler über. Innerhalb des ordentlichen Spielzugs müssen alle geforderten Spielhandlungen der jeweiligen Situation erledigt werden. Erklärt ein Spieler seinen Zug für beendet oder beginnt der nächste Spieler nach angemessener Zeit mit seinem Zug, ohne dass dies erfolgt ist, hat der Spieler seinen Zug nicht korrekt beendet.
+Hat eine legale Karte den Spielstapel berührt, darf sie unter keinen Umständen wieder zurückgezogen werden. Muss ein Spieler aussetzen, so erhält er kein Spielrecht und befindet sich dementsprechend in keinem ordentlichen Zug. Hat ein Spieler die Möglichkeit weitere Karten zu legen (Basiskarte oder gezogene Karte), kann oder will dies aber nicht, so gilt es den nächste Spieler darüber zu informieren. Erfolgt kein Signal so muss der nächste Spieler zumindest eine angemessene Zeit warten, bevor er seinen Spielzug beginnt.
+
 
 # § 2 Spielpflicht / Karte ziehen
 Besitzt ein Spieler das Spielrecht und kann den Spielstapel nicht bedienen, so muss er eine Karte auf die Hand aufnehmen. Diese kann, falls sie sich nach Begutachtung als legale Karte herausstellt, auch sofort wieder gespielt werden.  
@@ -38,9 +40,7 @@ Fälschlicherweise zuviel gezogene Karten müssen als Strafkarten vor sich abgel
 
 # § 3 Regelverstoß
 Als Regelverstoß bezeichnet man das vorsätzliche, aber auch das unbeabsichtigte Handeln gegen eine der in dieser Anleitung festgelegten Regeln, oder während dem Spiel verlauf hinzugekommenen Sonderregeln.
-
-Hierbei unterscheidet man zwischen Verhaltens- und Karten- bzw. Legeverstößen. Beide Verstöße können bis zum Ende des übernächsten ordentlichen Spielzuges angezweifelt werden.
-
+Hierbei unterscheidet man zwischen Verhaltens- und Karten- bzw. Legeverstößen. Beide Verstöße können bis zum Ende des übernächsten ordentlichen Spielzuges anderer Spieler angezweifelt werden.
 Jeder Regelverstoß wird mit einer Strafkarten geahndet.
 
 # § 4 Strafkarten
@@ -84,7 +84,8 @@ Beim anspielen der Karten darf der Geber lediglich einen Angabefehler machen, da
 Der Schluss oder das Ende einer Runde ist dann erreicht, sobald ein Spieler seine letzte Karte korrekt ablegt. Der Spieler darf das Ablegen nicht mit einem Ausruf oder ofensichtlicher Freude beenden, jedoch ist ihm gestattet die Mitspieler darauf hinzuweisen, dass er seine letzte Karte gespielt und damit die Runde beendet hat.
 
 ## § 10. a Mau
-Der Spieler muss unmittelbar dann Mau sagen, sobald er lediglich eine aktive Karte auf der Hand hat. Dies kann mit dem Ablegen der vorletzten Karte geschehen, muss aber unbedingt vor dem Ende des ordentlichen Zuges des Spielers angemerkt werden. Falls nur noch eine Strafkarte vor dem Spieler liegt, muss nach dem regulären Zug Mau gesagt werden, also sobald die Strafkarte zur aktiven Karte wird.
+Der Spieler muss unmittelbar dann Mau sagen, sobald er lediglich eine aktive Karte auf der Hand hat. Dies kann mit dem Ablegen der vorletzten Karte geschehen, muss aber unbedingt vor dem Ende des ordentlichen Zuges des Spielers angemerkt werden. Falls nur noch eine Strafkarte vor dem Spieler liegt, muss nach dem regulären Zug Mau gesagt werden, also sobald die Strafkarte zur aktiven Karte wird. Werden mehrere zusammengehörige Karten gleichzeitig gelegt oder aktiv, so werden diese immer als Einheit und nicht voneinander trennbar betrachtet. In allen derartigen Fällen, ist der Spieler zu keinem Zeitpunkt Mau.
+
 
 ## § 10. b Mau-Mau
 Der Ausruf Mau-Mau muss mit dem Ablegen eines Buben am Spielende ausgestoßen werden, ansonsten ist dieser Ausruf zu unterlassen.
@@ -120,3 +121,27 @@ Wird eine ausgewählte Karte gespielt, so müssen alle Spieler mit einem Zeigefi
 
 ## § 16. d Die einsame 9
 Wird eine Basiskarte alleine, also ohne weitere abgelegte Karten gespielt so muss die einsame 9 von allen Spielern kurz gestreichelt werden.
+
+
+## § 16. e 8er - Addierer
+Der 8er - Addierer ermöglicht es einem Spieler, mehrere 8er zusammen abzulegen. Die Anzahl der Spieler, die anschließend aussetzen müssen, erhöht sich entsprechend der Anzahl der gelegten 8er.
+Bei 4 Spielern am Tisch würden folgerichtig 3 gleichzeitig gelegte 8er dazu führen, dass derselbe Spieler noch einmal an der Reihe ist. Zusammen gelegte 8er sind zusammengehörige Karten!
+
+
+## § 16. f Twisted Jack
+Ist der Twisted Jack aktiv, so verkehrt sich die gewünschte Farbe nach einem gelegten Buben automatisch in die jeweils entgegengesetzte der gleichen Farbe.
+Dies klingt unverständlich, kann aber anhand von zwei Beispielen sehr leicht erklärt werden.
+
+Wünscht sich ein Spieler ‘Herz’ (rot), so muss mit ‘Karo’ (ebenfalls rot, nur entgegengesetzt) weitergespielt werden.
+Wünscht sich ein Spieler ‘Pik’ (schwarz), so muss mit ‘Kreuz’ (ebenfalls schwarz (...)) weitergespielt werden.
+Und umgekehrt natürlich.
+
+
+## § 16. g Danke
+Es wird der schweizer Spielart oft nachgesagt, es sei ein eher rüdes Spiel, welches ungehobelten Charakteren ungezügelten Spielraum für ihre Rüpeleien ließe.
+Um diesem fehlgeleiteten Vorurteil entschieden entgegenzutreten, wollen wir etwas Höflichkeit einführen.
+Ab sofort muss sich jeder Spieler, der eine Strafkarte erhält für diese bedanken.
+Vergisst er dies, darf er sich dankend noch eine weitere Strafkarte ziehen.
+
+## § 16. h Richtungswechsel
+Bei einem gelegten Ass ändert sich die Spielrichtung, nachdem der Spieler, welcher das Ass gelegt hat, seinen Spielzug beendet hat.
